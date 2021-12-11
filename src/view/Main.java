@@ -26,6 +26,7 @@ public class Main {
 			sdf.setLenient(false);
 			Integer option;
 
+			System.out.println("Welcome to Book Registration App");
 			do {
 				System.out.println("\nChoose your option");
 				System.out.println("1) Add Book 2) Retrieve 3) Update 4) Delete 5) Exit");
